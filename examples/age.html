@@ -1,0 +1,35 @@
+<html>
+  <head>
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="../css/style.css">
+    <link rel="stylesheet" type="text/css" href="../css/w3.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script src="../js/scripts.js"></script>
+  </head>
+  <body>
+    <div id="header"></div>
+    <div class="w3-row-padding">
+      <div class="w3-half">
+        <form action="age_2.html" onsubmit="return validateAge()">
+          <div class="w3-border w3-section w3-margin">
+          <div class="w3-container w3-Teal">
+            <h1>Age page</h1>
+          </div>
+          <div class="w3-container w3-green w3-padding-8">
+          <h2>Name: </h2>
+          <input name="name" id="name" value="Enter name here" class="w3-input w3-border" type="text" onclick="document.getElementById('name').value = ''">
+          <h2>Age: </h2>
+          <input name="age" id="age" value="" class="w3-input w3-border" type="number">
+          <p id="error" class="error"></p>
+          <button id="submit" onclick='showNameAndAge()' class="w3-btn w3-white w3-border w3-margin-top w3-margin-bottom" style="width:100%">Submit</button>
+        </div>
+      </div>
+        </form> 
+      </div>
+    </div>
+  </body>
+</html>

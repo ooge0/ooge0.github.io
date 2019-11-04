@@ -1,0 +1,133 @@
+label.vfb-desc {
+    font-weight: bold;
+    display: block;
+    margin: 0;
+    padding: 0 0 3px 0;
+    color: #000;
+    font-size: 13px;
+    line-height: inherit;
+    font: normal normal normal 14px / 22px "Arial", Helvetica, Arial, Verdana, sans-serif;
+  }
+
+#show_me {
+    visibility: hidden;
+}
+
+.error {
+  padding: 0;
+  color: red;
+  font-weight: bold;
+}
+
+p {
+    padding: 12px 16px;
+}
+
+#start_green {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+#start_green_and_blue {
+    background-color: #009688;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+#loading_green, #loading_green_without_blue, #loading_green_with_blue, #loading_blue_without_green {
+    padding: 15px 32px;
+    font-size: 24px;
+    margin: 4px 2px;
+}
+
+#finish_green, #finish_green_and_blue {
+    padding: 15px 32px;
+    margin: 4px 2px;
+}
+
+textarea {
+    width: 100%;
+    height: 150px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    resize: none;
+}
+
+a.header_link {
+    text-decoration: none;
+}
+
+#magic_text p {
+    font-size: 36;
+    text-align: center;
+}
+
+.egle {
+    width: 50%;
+    float: right;
+    margin: 5px 20px;
+}
+
+h2.w3-dark-grey {
+    margin: 10px 16px;
+    padding: 10px;
+    width: 42%;
+}
+
+a.lorem:hover {
+    text-decoration: none;
+}
+
+#fb_form input[type=radio].w3-radio:checked+.w3-validate, #fb_form input[type=checkbox].w3-check:checked+.w3-validate {
+    color: #2196F3;
+}
+
+#fb_form input[type=radio].w3-radio:disabled+.w3-validate {
+    color: #aaa;
+}
+
+#fb_form .w3-select option[disabled] {
+    color: #aaa;
+}
+
+#drag_box1, #drag_box2 {
+    float: left;
+    width: 120px;
+    height: 120px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+#box.orange {
+    background-color: orange;
+}
+
+#box.green {
+    background-color: green;
+}
+
+#box {
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+

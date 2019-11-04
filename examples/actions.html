@@ -1,0 +1,164 @@
+<html>
+  <head>
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="../css/style.css">
+    <link rel="stylesheet" type="text/css" href="../css/w3.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script src="../js/scripts.js"></script>
+    <script>
+      $(function(){
+        $( "#vfb-8" ).datepicker();
+      } );
+    </script>
+  </head>
+  <body>
+    <div id="header"></div>
+
+    <div class="w3-row-padding">
+
+      <div class="w3-third">
+        <div class="w3-container w3-light-grey w3-border w3-padding-8 w3-section w3-margin">
+          <h2>Text</h2>
+          <input name="vfb-5" id="text" value="This is a text box" class="w3-input w3-border" type="text">
+          <br/>
+          <button onclick='actShowResult("text")' id="result_button_text" class="w3-btn w3-round-xxlarge w3-teal w3-small">Result</button>
+          <button onclick='actShowResult("text", true)' id="clear_result_button_text" class="w3-btn w3-round-xxlarge w3-teal w3-small" disabled>Clear Result</button>
+          <p id="result_text" style="display: none"></p>
+        </div>
+      </div>
+
+      <div class="w3-third">
+        <div class="w3-container w3-light-grey w3-border w3-padding-8 w3-section w3-margin">
+          <h2>Number</h2>
+          <input name="vfb-9" id="number" value="5" class="w3-input w3-border" type="number">
+          <br/>
+          <button onclick='actShowResult("number")' id="result_button_number" class="w3-btn w3-round-xxlarge w3-teal w3-small">Result</button>
+          <button onclick='actShowResult("number", true)' id="clear_result_button_number" class="w3-btn w3-round-xxlarge w3-teal w3-small" disabled>Clear Result</button>
+          <p id="result_number" style="display: none"></p>
+        </div>
+      </div>
+
+      <div class="w3-third">
+        <div class="w3-container w3-light-grey w3-border w3-padding-8 w3-section w3-margin">
+          <h2>Textarea</h2>
+          <textarea name="vfb-10" id="text_area" class="vfb-textarea  vfb-medium  ">This is a text area</textarea>
+          <br/>
+          <br/>
+          <button onclick='actShowResult("text_area")' id="result_button_text_area" class="w3-btn w3-round-xxlarge w3-teal w3-small">Result</button>
+          <button onclick='actShowResult("text_area", true)' id="clear_result_button_text_area" class="w3-btn w3-round-xxlarge w3-teal w3-small" disabled>Clear Result</button>
+          <p id="result_text_area" style="display: none"></p>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="w3-row-padding">
+      <div class="w3-third">
+        <div class="w3-container w3-light-grey w3-border w3-padding-8 w3-section w3-margin">
+        <h2>Button</h2>
+        <button onclick='showTextByClickingButton(true)' id="show_text" class="w3-btn w3-round-xxlarge w3-teal w3-small">Show</button>
+        <input type="button" name="hide_text" value="Hide" onclick='showTextByClickingButton(false)' class="w3-btn w3-round-xxlarge w3-teal w3-small" disabled />
+        <p id="show_me">I am here!</p>
+        </div>
+      </div>
+
+      <div class="w3-third">
+        <div class="w3-container w3-light-grey w3-border w3-padding-8 w3-margin">
+          <h2>Link</h2>
+          <a title="Link 1" href="link1" id="link1">This is a link</a>
+          <a title="Link 2">This is a link without a destination point</a>
+          <h3><a title="Homepage link" href="/site/" id="homepage_link">This is a link to Homepage</a></ h3>
+        </div>
+      </div>
+
+      <div class="w3-third">
+        <div class="w3-container w3-light-grey w3-border w3-padding-8 w3-section w3-margin">
+        <h2>Checkbox</h2>
+        <div>
+          <span class="vfb-span">
+            <input name="vfb-6[]" id="vfb-6-0" value="Option 1" class="w3-check" type="checkbox">
+            <label for="vfb-6-0" class="w3-validate">Option 1</label>
+          </span>
+          <span class="vfb-span">
+            <input name="vfb-6[]" id="vfb-6-1" value="Option 2" class="w3-check" type="checkbox">
+            <label for="vfb-6-1" class="w3-validate">Option 2</label>
+          </span>
+          <span class="vfb-span">
+            <input name="vfb-6[]" id="vfb-6-2" value="Option 3" class="w3-check" type="checkbox">
+            <label for="vfb-6-2" class="w3-validate">Option 3</label>
+          </span>
+          </div>
+          <br/>
+          <button onclick='actShowResult("checkbox")' id="result_button_checkbox" class="w3-btn w3-round-xxlarge w3-teal w3-small">Result</button>
+          <p id="result_checkbox" style="display: none"></p>
+        </div>
+      </div>
+    </div>
+
+    <div class="w3-row-padding">
+      <div class="w3-third">
+        <div class="w3-container w3-light-grey w3-border w3-padding-8 w3-section w3-margin">
+        <h2>Radio</h2>
+        <div>
+          <span class="vfb-span">
+            <input name="vfb-7" id="vfb-7-1" value="Option 1" class="w3-check" type="radio">
+            <label for="vfb-7-1" class="w3-validate">Option 1</label>
+          </span>
+          <span class="vfb-span">
+            <input name="vfb-7" id="vfb-7-2" value="Option 2" class="w3-check" type="radio">
+            <label for="vfb-7-2" class="w3-validate">Option 2</label>
+          </span>
+          <span class="vfb-span">
+            <input name="vfb-7" id="vfb-7-3" value="Option 3" class="w3-check" type="radio">
+            <label for="vfb-7-3" class="w3-validate">Option 3</label>
+          </span>
+          </div>
+          <br/>
+          <button onclick='actShowResult("radio")' id="result_button_ratio" class="w3-btn w3-round-xxlarge w3-teal w3-small">Result</button>
+          <p id="result_radio" style="display: none"></p>
+        </div>
+      </div>
+
+      <div class="w3-third">
+        <div class="w3-container w3-light-grey w3-border w3-padding-8 w3-section w3-margin">
+        <h2>Select </h2>
+        <select name="vfb-12" id="vfb-12" class="w3-select" name="option">
+          <option value="" disabled selected>Choose your option</option>
+          <option value="value1">Option 1</option>
+          <option value="value2">Option 2</option>
+          <option value="value3">Option 3</option>
+        </select>
+          <br/>
+          <br/>
+          <button onclick='actShowResult("select")' id="result_button_select" class="w3-btn w3-round-xxlarge w3-teal w3-small">Result</button>
+          <p id="result_select" style="display: none"></p>
+        </div>
+      </div>
+
+      <div class="w3-third">
+        <div class="w3-container w3-light-grey w3-border w3-padding-8 w3-section w3-margin">
+        <h2>Date</h2>
+        <input name="vfb-8" id="vfb-8" value="" class="w3-input w3-border" data-dp-dateformat="mm/dd/yy" type="text">
+          <br/>
+          <button onclick='actShowResult("date")' id="result_button_date" class="w3-btn w3-round-xxlarge w3-teal w3-small">Result</button>
+          <p id="result_date" style="display: none"></p>
+        </div>
+      </div>
+    </div>
+
+    <div class="w3-row-padding">
+      <div class="w3-third">
+        <div class="w3-container w3-light-grey w3-border w3-padding-8 w3-section w3-margin">
+        <h2>Drag and drop</h2>
+          <div id="drag_box1" ondrop="drop(event)" ondragover="allowDrop(event)">
+          <p id="box" draggable="true" ondragstart="drag(event)">Black Box</p>
+          </div>
+          <div id="drag_box2" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+      </div>
+    </div>
+  </body>
+</html>

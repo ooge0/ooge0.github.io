@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="../css/w3.css">
+    <link rel="stylesheet" type="text/css" href="../css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="../js/scripts.js"></script>
+    <script>
+      $(document).ready(function() {
+        if(localStorage.length == 0) {
+          $("#listOfPeople").load(setNewPeople());
+        }
+        loadPeopleWithJobsFromList();
+      });
+    </script>
+  </head>
+  <body>
+    <div id="header"></div>
+
+    <div class="w3-container">
+      <h2>People with jobs</h2>
+      <button class="w3-btn w3-white w3-border w3-left w3-margin" onclick="openModalForAddPersonWithJob()" id="addPersonBtn">Add person</button>
+      <button class="w3-btn w3-white w3-border w3-left w3-margin" onclick="resetListOfPeople()" id="addPersonBtn">Reset List</button>
+    </div>
+
+    <div class="w3-row">
+      <div class="w3-half">
+        <div class="w3-container">
+          <ul class="w3-ul w3-card-4" id="listOfPeople">
+          </ul>
+        </div>
+      </div>
+    </div>
+    <br>
+    <div class="w3-container">
+      <button class="w3-btn w3-white w3-border w3-left w3-margin" onclick="openModalForAddPersonWithJob()" id="addPersonBtn">Add person</button>
+      <button class="w3-btn w3-white w3-border w3-left w3-margin" onclick="resetListOfPeople()" id="addPersonBtn">Reset List</button>
+    </div>
+    <p class="copyrights w3-center">(c) Who would even want to steal this?</p>
+  </body>
+</html>
+

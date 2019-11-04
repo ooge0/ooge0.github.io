@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="../css/w3.css">
+    <link rel="stylesheet" type="text/css" href="../css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="../js/scripts.js"></script>
+    <script>
+      $(document).ready(function() {
+          $(".description").load(getPersonWithJob());
+      });
+    </script>
+  </head>
+  <body>
+    <div id="header"></div>
+
+    <div class="w3-container w3-margin">
+          <h2>People with jobs</h2>
+          <div class = "clear-btn">
+          </div>
+    </div>
+
+    <div class="w3-row">
+      <div class="w3-half">
+        <div class="w3-container">
+            <div class="w3-card-4 w3-padding" id="addEditPerson">
+                <p><label>Name</label>
+                <input class="w3-input" type="text" id="name" required></p>
+                <p>
+                <label>Job</label>
+                <input class="w3-input" type="text" id="job" required></p>
+                <div class="w3-btn-group">
+                  <button class="w3-btn w3-white w3-border w3-margin" id="modal_button" onclick="addPersonWithJobToList()" style="width:45%"></button>
+                  <button class="w3-btn w3-white w3-border w3-margin" id="modal_button" onclick="window.history.back()" style="width:45%">Cancel</button>
+                </div>
+            </div>
+        </div>
+      </div>
+    </div>
+    <br>
+    <p class="copyrights w3-center">(c) Who would even want to steal this?</p>
+  </body>
+</html>
+
