@@ -19,3 +19,4 @@ description: This page contains list of used sources, articles, websites
 9. [Луценко Евгений Вениаминович. ИНТЕЛЛЕКТУАЛЬНЫЕ ИНФОРМАЦИОННЫЕ СИСТЕМЫ. Учебное пособие для студентов очной и заочной форм обучения по специальности: 351400 – прикладная информатика (по отраслям)](http://lc.kubagro.ru/aidos/aidos04/Vihodn\_dannie.htm)
 10. [Нейронные сети: 2. Разделяющие поверхности](http://synset.com/ai/ru/nn/NeuralNet\_02\_Surface.html)
 11. [Синаптические веса в нейронных сетях – просто и доступно / Хабр](https://habr.com/ru/post/589893/)
+12. [А. Шень Вероятность: примеры и задачи Издание четвёртое, стереотипное. Москва Издательство МЦНМО 2016](https://www.mccme.ru/free-books/shen/shen-probability.pdf)
