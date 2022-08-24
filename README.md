@@ -512,7 +512,7 @@ _**keras.layer.Embedding(input\_dim, outpu\_dim,..., input\_lenght)**_
 
 4\. Алгебры диференциальных уравнений,
 
-Краткое обзор "базовой математики" доступен здесь:&#x20;
+Краткий обзор "базовой математики" доступен здесь:&#x20;
 
 1. &#x20;[Базовая математика для нейронных сетей - YouTube](https://www.youtube.com/watch?v=Ny3LRl23dsM)
 2. [Математика Для Машинного Обучения - YouTube](https://www.youtube.com/watch?v=CS7aRo2REfE)
