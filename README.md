@@ -498,7 +498,7 @@ _**keras.layer.Embedding(input\_dim, outpu\_dim,..., input\_lenght)**_
 
 1. Теории вероятности и Математической статистика
 
-![](.gitbook/assets/image.png)
+![](<.gitbook/assets/image (1).png>)
 
 2\. Линейной алгебры или Алгебры линейных уравнений
 
@@ -506,7 +506,7 @@ _**keras.layer.Embedding(input\_dim, outpu\_dim,..., input\_lenght)**_
 
 3\. Математического анализа
 
-![](<.gitbook/assets/image (1) (1).png>)
+![](<.gitbook/assets/image (1) (1) (1).png>)
 
 3\. Дискретной математика,
 
@@ -544,7 +544,7 @@ _**keras.layer.Embedding(input\_dim, outpu\_dim,..., input\_lenght)**_
 
 _Пример 2_. Найти среднюю заработную плату рабочих цеха за месяц
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Средняя заработная плата может быть получена путем деления общей суммы заработной платы на общее число рабочих:
 
