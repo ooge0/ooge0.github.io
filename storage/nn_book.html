@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Markdown to HTML</title>
+    <script src="https://cdn.jsdelivr.net/npm/markdown-it@11/dist/markdown-it.min.js"></script>
+</head>
+<body>
+    <div id="markdown-content"></div>
+    
+    <script>
+        // Загрузка содержимого Markdown-файла
+        fetch('README.MD')
+            .then(response => response.text())
+            .then(markdown => {
+                // Преобразование Markdown в HTML
+                const md = window.markdownit();
+                const html = md.render(markdown);
+                
+                // Отображение HTML-контента
+                document.getElementById('markdown-content').innerHTML = html;
+            });
+    </script>
+</body>
+</html>
