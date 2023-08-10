@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <script src="js/scripts.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/markdown-it@11/dist/markdown-it.min.js"></script
   </head>    
   <body>
     <div id="header"></div>
@@ -14,12 +15,23 @@
     <p>Lorem ipsum.</p>
     <h2>
       <ul>
-        <li>
-            <a class="active" href="menu">Site Menu</a>  
-            <a class="active" href="README.MD">NN book</a>  
-            <a class="active" href="SUMMARY.MD">NN FAQ</a>  
-          </li>
-      </ul>
+        <li><a class="active" href="menu">Site Menu</a>      </li>
+        <li> <a class="active" href="README.MD">NN book</a>  </li>
+        <li> <a class="active" href="SUMMARY.MD">NN FAQ</a>  </li>
+     </ul>
    </h2>
+   <div id="markdown-content"></div>
+    <script>
+        // Загрузка содержимого Markdown-файла
+        fetch('README.MD')
+            .then(response => response.text())
+            .then(markdown => {
+                // Преобразование Markdown в HTML
+                const md = window.markdownit();
+                const html = md.render(markdown);
+                // Отображение HTML-контента
+                document.getElementById('markdown-content').innerHTML = html;
+            });
+    </script>
   </body>
 <html>
