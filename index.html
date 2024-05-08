@@ -2,12 +2,110 @@
 <html lang="en-US">
 <head>
   <title>ooge0 home page</title>
+  <style>
+    /* Styles for the body */
+    body {
+      display: grid; /* Use grid layout for main structure */
+      grid-template-rows: auto 1fr auto; /* Define rows for header, content, and footer */
+      min-height: 100vh; /* Set minimum viewport height for full-page layout */
+      margin: 0; /* Remove default body margins */
+      font-family: Arial, sans-serif; /* Set default font */
+      background-color: #f0f0f0; /* Set background color for better contrast */
+    }
+
+    /* Styles for the header */
+    header {
+      display: grid; /* Use grid layout for main structure */
+      grid-template-rows: auto 1fr auto; /* Define rows for header,*/
+      min-height: 5vh; /* Set minimum viewport height for full-page layout */
+      margin: 0; /* Remove default body margins */
+      background-color: #4d284eea; /* Header background color */
+      color: #e9aeee; /* Header text color */
+      font-style: italic; /* Header font style */
+      padding: 4px; /* Header padding */
+      justify-content: center; 
+    }
+
+    header h1 {
+      font-size: 2em; /* Set heading size */
+      margin: 0 5px; /* Remove default heading margins */
+      margin-bottom : 5px;
+    }
+
+    
+    header nav {
+       /* Remove default display for navigation to allow inline arrangement */
+       display: inline;     
+      }
+      
+      header nav li {
+         display: inline-block; /* Make list items inline blocks */
+         margin: 0 5px; /* Add horizontal spacing between items */
+      }
+      
+      header nav li a {
+         text-decoration: none; /* Remove default link underlines */
+         color: #e9aeee; /* Set link text color */
+      }
+      
+      .header_subitems {
+        color: hsl(149, 28%, 42%); /* Header subitems text color */
+        /* Remove default list styling to allow inline arrangement */
+        list-style: none;
+        padding: 0;
+        margin: 0 10px;
+      }
+      
+      /* Styles for the main content section */
+      main {
+         display: grid; /* Use grid layout for main content structure */
+      grid-template-columns: 1fr; /* Define a single column for content */
+      padding: 10px; /* Content area padding */
+      margin: 0 20px;
+    }
+
+    main h1, main h2 {
+      margin: 1em 0; /* Add space before and after headings */
+    }
+
+    main ul {
+      list-style: none; /* Remove default bullet points */
+      padding: 0; /* Remove default list padding */
+      margin: 0; /* Remove default list margins */
+    }
+
+    main li {
+      margin-bottom: 2em; /* Add space between list items (twice the paragraph width) */
+    }
+
+    /* Styles for the footer */
+    footer {
+      background-color: #4d284eea; /* Footer background color */
+      color: #e9aeee; /* Footer text color */
+      font-style: italic; /* Footer font style */
+      padding: 5px; /* Footer padding */
+      display: flex; /* Enable flexbox layout for footer content */
+      align-items: center; /* Align footer content vertically */
+      justify-content: center; /* Align footer content horizontally */
+   }
+   
+    footer p {
+   /* Force content to break onto a new line if it doesn't fit */
+   white-space: nowrap;
+   /* Set maximum width to prevent excessive horizontal space */
+   max-width: fit-content;
+   /* Center text within each line */
+   text-align: center;
+   /* Add some margin for better spacing */
+   margin: 0 5px;
+   }
+  </style>
 </head>
 <body>
-  <header>
-    <h1>Welcome to My Web Page</h1>
+  <header id="header">
+    <h1>Welcome page</h1>
     <nav>
-      <ul>
+      <ul class="header_subitems">
         <li>
           <a href="#about">About</a>
         </li>
@@ -20,49 +118,29 @@
       </ul>
     </nav>
   </header>
-  <main>
-    <div id="header">
-    </div>
-    <h1 id="h1">ooge0 home page</h1>
-    <p>
-    </p>
-    <p> Below is main sections of web my personal website</p>
-    <h3> Main Menu <ul>
-        <li class="active">
-          <a href="qa_menu">QA</a>
-          <ul>
+  <main id="main">
+    <h1>Website sections</h1>
+    <h2>General</h2>
+    <ul>
+         <li><a href="my_projects">My projects</a></li>
+          <li><a href="qa_menu">QA docs</a></li>
+          <li><a href="dev_docs">Test automation docs</a></li>
+          <li><a href="menu">DEV docs</a></li>
+          <li><a href="examples_for_ui_testing">Examples of web pages and components for UI testing</a></li>
+         </ul>
+         <h2>Other</h2>
+         <ul>
             <li>
-              <a href="menu">Examples of web pages and components for UI testing</a>
+               <a href="Neural_betwok">Neural networks</a>
             </li>
-          </ul>
-        </li>
-        <li class="active">
-          <a href="dev_menu">DEV</a>
-          <ul>
-            <li>
-              <a href="menu">Dev docs</a>
-            </li>
-          </ul>
-        </li>
-        <li class="active">
-          <a href="neural_betwok">Neural networks</a>
-          <ul>
-            <li>
-              <a href="/storage/nn_book2">NN book</a>
-            </li>
-            <li>
-              <a href="/storage/faq">NN FAQ</a>
-            </li>
-          </ul>
-        </li>
-      </ul>
-    </h3>
-    </main>
-      <footer>
-        <p>Author: ooge0</p>
-        <p>
-          <a href="mailto:sendMeSomethingh@example.com">sendMeSomethingh@example.com</a>
-        </p>
+            <li><a href="/storage/nn_books">NN books</a></li>
+            <li><a href="/storage/nn_faq">Neural networks-FAQ</a></li>
+         </ul>
+      </div>
+      </main>
+      <footer id="footer">
+         <p>Powered by:</p>
+         <p>GitHub Pages</p>
       </footer>
-</body>
+   </body>
 </html>
