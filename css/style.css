@@ -1,14 +1,8 @@
-label.vfb-desc {
-    font-weight: bold;
-    display: block;
-    margin: 0;
-    padding: 0 0 3px 0;
-    color: #000;
-    font-size: 13px;
-    line-height: inherit;
-    font: normal normal normal 14px / 22px "Arial", Helvetica, Arial, Verdana, sans-serif;
-  }
+/* Below are styles for the index.html */
 
+/* Above are styles for the index.html */
+
+/* Below are styles for the files from 'tasks' folder */
 #show_me {
     visibility: hidden;
 }
@@ -130,4 +124,6 @@ a.lorem:hover {
     text-align: center;
     color: white;
 }
+
+/* Above are styles for the files from 'tasks' folder */
 
