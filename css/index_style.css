@@ -80,6 +80,9 @@
     margin-bottom: 6px;
     text-decoration: none; 
   }
+main a {
+ text-decoration: none; 
+}
 
   /* Styles for the footer */
   footer {
