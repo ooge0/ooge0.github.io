@@ -98,3 +98,9 @@
     text-align: center;
     margin: 0 5px;
   }
+  footer p {
+    white-space: nowrap;
+    max-width: fit-content;
+    text-align: center;
+    margin: 0 5px;
+  }
