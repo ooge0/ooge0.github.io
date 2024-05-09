@@ -78,7 +78,7 @@
  main li {
     /* Reduce spacing between list items within a section */
     margin-bottom: 6px;
-    
+    text-decoration: none; 
   }
 
   /* Styles for the footer */
