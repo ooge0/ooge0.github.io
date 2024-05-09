@@ -107,3 +107,7 @@ main a {
     text-align: justify;
     text-indent: 50px;
   }
+
+a {
+ text-decoration: none; 
+}
