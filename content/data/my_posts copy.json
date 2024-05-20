@@ -1,0 +1,161 @@
+[
+    {
+        "name": "LinkedIn",
+        "platform_posts": [
+            {
+                "title": "How to identify and authorize the world | LinkedIn",
+                "url": "https://www.linkedin.com/pulse/how-identify-authorize-world-roman-denysenko/?trackingId=9XPiGaGb5dRbHqv7D54MpA%3D%3D"
+            },
+            {
+                "title": "Test design techniques (Diagram) | LinkedIn",
+                "url": "https://www.linkedin.com/pulse/test-design-techniques-diagram-roman-denysenko-cenhe/?trackingId=nfx%2FcTx%2BUJhTup2tM83uDw%3D%3D"
+            },
+            {
+                "title": "Google Chrome Extensions for Software Testers | LinkedIn",
+                "url": "https://www.linkedin.com/pulse/google-chrome-extensions-software-testers-shady-ahmed-mohamed/?trackingId=67cztDHJl1FiMv1KZeE9JQ%3D%3D"
+            },
+            {
+                "title": "Machine Learning Community (Moderated) | Groups | LinkedIn",
+                "url": "https://www.linkedin.com/groups/961087/?q=highlightedFeedForGroups&highlightedUpdateUrn=urn%3Ali%3AgroupPost%3A961087-7135234239951745025"
+            },
+            {
+                "title": "List of channels about historical processes on YouTube (will be updated) | LinkedIn",
+                "url": "https://www.linkedin.com/pulse/list-channels-historical-processes-youtube-updated-roman-denysenko-fc4lf/?trackingId=1YbHy9l9xRxXL2BohGKaWWQ%3D%3D"
+            },
+            {
+                "title": "DOM data | LinkedIn",
+                "url": "https://www.linkedin.com/pulse/dom-data-roman-denysenko/?trackingId=fYwsAt7loKNZsW4473tOig%3D%3D"
+            },
+            {
+                "title": "One-time email services | LinkedIn",
+                "url": "https://www.linkedin.com/pulse/one-time-email-services-roman-denysenko/?trackingId=%2B4ba9eFZgOwxlqbkbkvUSw%3D%3D"
+            },
+            {
+                "title": "Worldwide virtual ward companies | LinkedIn",
+                "url": "https://www.linkedin.com/pulse/virtual-ward-companies-roman-denysenko/?trackingId=1%2B83hbESobRlVKfpWLIi2A%3D%3D"
+            },
+            {
+                "text": "Export extensions from Chrome | LinkedIn",
+                "url": "https://www.linkedin.com/pulse/export-extensions-from-chrome-roman-denysenko-hztif/?trackingId=HVRg9nSjoLfwuTHKg9LmgQ%3D%3D"
+            }
+        ]
+    },
+    {
+        "name": "Medium",
+        "platform_posts": [
+            {
+                "title": "Internet Control Message Protocol (ICMP) — overview | by R_D2 | Apr, 2024 | Medium",
+                "url": " https://broken-code.medium.com/icmp-protocol-7d53b64c73ca"
+            },
+            {
+                "title": "Cyclomatic complexity (Basics) | Medium",
+                "url": "https://medium.com/@R_D2/cyclomatic-complexity-basics-149198bbac85"
+            },
+            {
+                "title": "Navigating the Gaming Cosmos: A Comprehensive Guide to Testing Game Tiers | by R_D2 | Medium",
+                "url": "https://medium.com/@R_D2/navigating-the-gaming-cosmos-a-comprehensive-guide-to-testing-game-tiers-c5777a672666"
+            },
+            {
+                "title": "Hugging Face Transformer UML diagram | by R_D2 | Medium",
+                "url": "https://medium.com/@R_D2/hugging-face-transformer-uml-diagram-3ce7cde44cc0"
+            },
+            {
+                "title": "How Is ChatGPT’s Behavior Changing",
+                "url": "https://medium.com/@R_D2/hugging-face-transformer-uml-diagram-3ce7cde44cc0"
+            }
+        ]
+    },
+    {
+        "name": "Other Resources",
+        "platform_posts": [
+            {
+                "title": "Open RAN explained | Nokia",
+                "url": "https://www.nokia.com/networks/radio-access-networks/open-ran/open-ran-explained/"
+            },
+            {
+                "title": "git-flow cheatsheet",
+                "url": "https://danielkummer.github.io/git-flow-cheatsheet/"
+            },
+            {
+                "title": "Penetration Testing - Complete Guide with Penetration Testing Sample Test Cases",
+                "url": "https://www.softwaretestinghelp.com/penetration-testing-guide/"
+            },
+            {
+                "title": "Linux Directories Explained in 100 Seconds - YouTube",
+                "url": "https://www.youtube.com/watch?v=42iQKuQodW4"
+            },
+            {
+                "title": "A ROUTE TO NET ZERO EUROPEAN AVIATION",
+                "url": "https://www.destination2050.eu/"
+            },
+            {
+                "title": "TUTORIAL.An Introduction to OAuth 2",
+                "url": "https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2"
+            },
+            {
+                "title": "OAuth2 101: OAuth 2 Detailed Grant Flow Diagrams, Security Consideration and Best Practice",
+                "url": "https://djangocas.dev/blog/oauth2-101-introduction-to-oauth2-protocol/"
+            },
+            {
+                "title": "Nonfunctional Requirements - Scaled Agile Framework",
+                "url": "https://scaledagileframework.com/nonfunctional-requirements/"
+            },
+            {
+                "title": "List of User Agent strings - DeviceAtlas",
+                "url": "https://deviceatlas.com/blog/list-of-user-agent-strings"
+            },
+            {
+                "title": "Overview | Lighthouse | Chrome for Developers",
+                "url": "https://developer.chrome.com/docs/lighthouse/overview/"
+            },
+            {
+                "title": "Education Services - Palo Alto Networks",
+                "url": "https://www.paloaltonetworks.com/services/education"
+            },
+            {
+                "title": "Continuous Integration With Python: An Introduction – Real Python",
+                "url": "https://realpython.com/python-continuous-integration/"
+            },
+            {
+                "title": "Testing Strategies in a Microservice Architecture",
+                "url": "https://martinfowler.com/articles/microservice-testing/"
+            },
+            {
+                "title": "Flags are not languages – A blog about designing global user experiences: beyond language, location & culture.",
+                "url": "https://www.flagsarenotlanguages.com/blog/"
+            },
+            {
+                "title": "Sigma.js",
+                "url": "https://www.sigmajs.org/"
+            },
+            {
+                "title": "Bobby Iliev - Introduction to SQL eBook",
+                "url": "https://sql.bobby.sh/"
+            },
+            {
+                "title": "SQL/Tutorials/ SQLite tutorial.md at master · ooge0/SQL",
+                "url": "https://github.com/ooge0/SQL/blob/master/Tutorials/%20SQLite%20tutorial.md"
+            },
+            {
+                "title": "Challenge Response Authentication Mechanism (CRAM) - Scaler Topics",
+                "url": "https://www.scaler.com/topics/challenge-response-authentication/"
+            },
+            {
+                "title": "UML Diagram Types | Learn About All 14 Types of UML Diagrams",
+                "url": "https://creately.com/blog/diagrams/uml-diagram-types-examples/"
+            },
+            {
+                "title": "Choosing the Right UML Diagram: State Diagrams, Sequence Diagrams, or Activity Diagrams? - Visual Paradigm Guides",
+                "url": "https://guides.visual-paradigm.com/choosing-the-right-uml-diagram-state-diagrams-sequence-diagrams-or-activity-diagrams/"
+            },
+            {
+                "text": "Export extensions from Chrome | LinkedIn",
+                "url": "https://www.linkedin.com/pulse/export-extensions-from-chrome-roman-denysenko-hztif/?trackingId=HVRg9nSjoLfwuTHKg9LmgQ%3D%3D"
+            },
+            {
+                "title": "Top 10 software development models in a nutshell",
+                "url": "https://senlainc.com/blog/top-10-software-development-models-in-a-nutshell/"
+            }
+        ]
+        }
+    ]
