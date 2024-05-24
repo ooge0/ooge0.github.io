@@ -1,0 +1,57 @@
+[
+    {
+        "top_category": "Python",
+        "top_category_item": [
+            {
+                "top_category_item_title": "Working with PDFs: The best tools for extracting text, tables and images",
+                "top_category_item_url": "https://levelup.gitconnected.com/working-with-pdfs-the-best-tools-for-extracting-text-tables-and-images-2e07a540c5cc",
+                "top_category_item_details": [
+                    {
+                        "YouTube": "",
+                        "Video posted on YouTube": "",
+                        "Author": "",
+                        "YouTube channel": "",
+                        "GitHub project": "",
+                        "Languages": "",
+                        "Description": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "top_category": "Gmail's API & Python",
+        "top_category_item": [
+            {
+                "top_category_item_title": "Using Gmail's API To Search & Display Emails Using Python",
+                "top_category_item_url": "https://levelup.gitconnected.com/working-with-pdfs-the-best-tools-for-extracting-text-tables-and-images-2e07a540c5cc",
+                "top_category_item_details": [
+                    {
+                        "YouTube": "https://YouTube_video_Link",
+                        "Video posted on YouTube": "Oct 13, 2019",
+                        "Auhtor": "Norman Benbrahim",
+                        "YouTube channel": "https://YouTube_channel_Link",
+                        "GitHub project": "NormanBenbrahim/get_emails",
+                        "Languages": "Python",
+                        "Description": "Author explains usage of Gmail API and creating Python app that utilizes it. In additional , author exaplain how to get Gmail API token."
+                    }
+                ]
+            },
+            {
+                "top_category_item_title": "Read emails with Python + Gmail API (part 1)",
+                "top_category_item_url": "",
+                "top_category_item_details": [
+                    {
+                        "YouTube": "https://youtu.be/vgk7Yio-GQw",
+                        "Video posted on YouTube": " Apr 12, 2023",
+                        "Auhtor": "ian samir.",
+                        "YouTube channel": "https://www.youtube.com/@iansamir18",
+                        "GitHub project": "iansamir/email-bot",
+                        "Languages": "Python",
+                        "Description": "Author explains usage of Gmail API and creating Python app that utilizes it."
+                    }
+                ]
+            }
+        ]
+    }
+]
