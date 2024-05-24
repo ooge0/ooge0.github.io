@@ -1,0 +1,266 @@
+
+Update: Open RAN explained | Nokia
+https://www.nokia.com/networks/radio-access-networks/open-ran/open-ran-explained/
+
+git-flow cheatsheet
+https://danielkummer.github.io/git-flow-cheatsheet/
+
+Penetration Testing - Complete Guide with Penetration Testing Sample Test Cases
+https://www.softwaretestinghelp.com/penetration-testing-guide/
+
+Linux Directories Explained in 100 Seconds - YouTube
+https://www.youtube.com/watch?v=42iQKuQodW4
+
+A ROUTE TO NET ZERO EUROPEAN AVIATION
+https://www.destination2050.eu/
+
+TUTORIAL.An Introduction to OAuth 2
+https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2
+
+OAuth2 101: OAuth 2 Detailed Grant Flow Diagrams, Security Consideration and Best Practice
+https://djangocas.dev/blog/oauth2-101-introduction-to-oauth2-protocol/
+
+Nonfunctional Requirements - Scaled Agile Framework
+https://scaledagileframework.com/nonfunctional-requirements/
+
+How to identify and authorize the world | LinkedIn
+https://www.linkedin.com/pulse/how-identify-authorize-world-roman-denysenko/?trackingId=9XPiGaGb5dRbHqv7D54MpA%3D%3D
+
+List of User Agent strings - DeviceAtlas
+https://deviceatlas.com/blog/list-of-user-agent-strings
+
+Overview  |  Lighthouse  |  Chrome for Developers
+https://developer.chrome.com/docs/lighthouse/overview/
+
+Education Services - Palo Alto Networks
+https://www.paloaltonetworks.com/services/education
+
+Continuous Integration With Python: An Introduction – Real Python
+https://realpython.com/python-continuous-integration/
+
+Testing Strategies in a Microservice Architecture
+https://martinfowler.com/articles/microservice-testing/
+
+Flags are not languages – A blog about designing global user experiences: beyond language, location & culture.
+https://www.flagsarenotlanguages.com/blog/
+
+Payment Card Industry Data Security Standard -v4.0 | LinkedIn
+https://www.linkedin.com/pulse/payment-card-industry-data-security-standard-v40-roman-denysenko-6fjme/?trackingId=PPG5KXtrGuAJDljGB2t7AA%3D%3D
+
+Sigma.js
+https://www.sigmajs.org/
+
+Bobby Iliev - Introduction to SQL eBook
+https://sql.bobby.sh/
+
+SQL/Tutorials/ SQLite tutorial.md at master · ooge0/SQL
+https://github.com/ooge0/SQL/blob/master/Tutorials/%20SQLite%20tutorial.md
+
+Challenge Response Authentication Mechanism (CRAM) - Scaler Topics
+https://www.scaler.com/topics/challenge-response-authentication/
+
+UML Diagram Types | Learn About All 14 Types of UML Diagrams
+https://creately.com/blog/diagrams/uml-diagram-types-examples/
+
+Choosing the Right UML Diagram: State Diagrams, Sequence Diagrams, or Activity Diagrams? - Visual Paradigm Guides
+https://guides.visual-paradigm.com/choosing-the-right-uml-diagram-state-diagrams-sequence-diagrams-or-activity-diagrams/
+
+Internet Control Message Protocol (ICMP) — overview | by R_D2 | Apr, 2024 | Medium
+https://medium.com/@R_D2/internet-control-message-protocol-icmp-overview-07fc970dcf14
+
+Evolution of machine learning in environmental science—A perspective | Environmental Data Science | Cambridge Core
+https://www.cambridge.org/core/journals/environmental-data-science/article/evolution-of-machine-learning-in-environmental-sciencea-perspective/C21F19C66FA387BC25F43C3C6B95E866
+
+Types of Code Coverage - MATLAB & Simulink - MathWorks India
+https://in.mathworks.com/help/slcoverage/ug/types-of-code-coverage.html
+
+Google extracted ChatGPT’s Training Data using a silly trick. | by Devansh | DataDrivenInvestor
+https://medium.datadriveninvestor.com/google-extracted-chatgpts-training-data-using-a-silly-trick-5544b1dada71
+
+Cyclomatic complexity (Basics) | Medium
+https://medium.com/@R_D2/cyclomatic-complexity-basics-149198bbac85
+
+Test design techniques (Diagram) | LinkedIn
+https://www.linkedin.com/pulse/test-design-techniques-diagram-roman-denysenko-cenhe/?trackingId=nfx%2FcTx%2BUJhTup2tM83uDw%3D%3D
+
+Google Chrome Extensions for Software Testers | LinkedIn
+https://www.linkedin.com/pulse/google-chrome-extensions-software-testers-shady-ahmed-mohamed/?trackingId=67cztDHJl1FiMv1KZeE9JQ%3D%3D
+
+Top 10 software development models in a nutshell
+https://senlainc.com/blog/top-10-software-development-models-in-a-nutshell/
+
+Convert MHTML To TXT Online
+https://products.aspose.app/words/conversion/mhtml-to-txt
+
+What is Activity Diagram?
+https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-activity-diagram/
+
+Machine Learning Community (Moderated) | Groups | LinkedIn
+https://www.linkedin.com/groups/961087/?q=highlightedFeedForGroups&highlightedUpdateUrn=urn%3Ali%3AgroupPost%3A961087-7135234239951745025
+
+ISO/IEC 20246:2017(en)
+https://www.iso.org/obp/ui/#iso:std:iso-iec:20246:ed-1:v1:en
+
+Software Reviews using ISO/IEC 20246.pdf
+https://www.stureid.info/wp-content/uploads/2018/01/Software-Reviews.pdf
+
+ISO 25010
+https://iso25000.com/index.php/en/iso-25000-standards/iso-25010
+
+Biggest social media platforms 2024 | Statista
+https://www.statista.com/statistics/272014/global-social-networks-ranked-by-number-of-users/
+
+What Is Retrieval-Augmented Generation aka RAG | NVIDIA Blogs
+https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/
+
+Retrieval-Augmented Generation (RAG): From Theory to LangChain Implementation | by Leonie Monigatti | Towards Data Science
+https://towardsdatascience.com/retrieval-augmented-generation-rag-from-theory-to-langchain-implementation-4e9bd5f6a4f2
+
+HTML elements reference - HTML: HyperText Markup Language | MDN
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+
+Export extensions from Chrome | LinkedIn
+https://www.linkedin.com/pulse/export-extensions-from-chrome-roman-denysenko-hztif/?trackingId=HVRg9nSjoLfwuTHKg9LmgQ%3D%3D
+Navigating the Gaming Cosmos: A Comprehensive Guide to Testing Game Tiers | by R_D2 | Medium
+https://medium.com/@R_D2/navigating-the-gaming-cosmos-a-comprehensive-guide-to-testing-game-tiers-c5777a672666
+
+Kubernetes: When and How to Apply It
+https://blog.bytebytego.com/p/kubernetes-when-and-how-to-apply
+
+List of channels about historical processes on YouTube (will be updated) | LinkedIn
+https://www.linkedin.com/pulse/list-channels-historical-processes-youtube-updated-roman-denysenko-fc4lf/?trackingId=1YbHy9l9xRxXL%2BohGKaWWQ%3D%3D
+
+configparser - Simple Guide to Create and Parse Configuration Files in Python
+https://coderzcolumn.com/tutorials/python/configparser-simple-guide-to-create-and-parse-configuration-files
+
+DOM data | LinkedIn
+https://www.linkedin.com/pulse/dom-data-roman-denysenko/?trackingId=fYwsAt7loKNZsW4473tOig%3D%3D
+
+How to Use 7-Zip on Linux Command Line
+https://linuxhint.com/7zip-linux-command-line/
+
+p7zip - Gentoo Wiki.p7zip is a command-line port of 7-Zip
+https://wiki.gentoo.org/wiki/P7zip
+
+UML Class Diagram Tutorial
+https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/
+
+ISO Language Codes (639-1 and 693-2) and IETF Language Types
+https://datahub.io/core/language-codes
+
+Worldwide virtual ward companies | LinkedIn
+https://www.linkedin.com/pulse/virtual-ward-companies-roman-denysenko/?trackingId=1%2B83hbESobRlVKfpWLIi2A%3D%3D
+
+The Cyber Resilience Act Threatens the Future of Open Source - DevOps.com
+https://devops.com/the-cyber-resilience-act-threatens-the-future-of-open-source/amp/
+
+Modeling Complex Systems in Python with Gaphor - YouTube
+https://www.youtube.com/watch?v=PnWKsr2csXg
+
+Coding a Transformer from scratch on PyTorch, with full explanation, training and inference. - YouTube
+https://www.youtube.com/watch?v=ISNdQcPhsts&list=PL95xFbZ2HvvCeyusdXqKziQftxkiMOC8Q
+
+One-time email services | LinkedIn
+https://www.linkedin.com/pulse/one-time-email-services-roman-denysenko/?trackingId=%2B4ba9eFZgOwxlqbkbkvUSw%3D%3D
+
+How Is ChatGPT’s Behavior Changing over Time?
+https://arxiv.org/pdf/2307.09009
+
+Hugging Face Transformer UML diagram | by R_D2 | Medium
+https://medium.com/@R_D2/hugging-face-transformer-uml-diagram-3ce7cde44cc0
+
+How to install Tor Browser on Ubuntu 20.04
+https://linuxhint.com/install-tor-browser-on-linux-mint-ubuntu/
+
+The Python Pyppeteer Guide - Use Puppeteer With Python | ScrapeOps
+https://scrapeops.io/python-web-scraping-playbook/python-pyppeteer/
+
+Pyppeteer: Use Puppeteer in Python [2024] - ZenRows
+https://www.zenrows.com/blog/pyppeteer#errors
+
+Understanding Large Language Models -- A Transformative Reading List
+https://sebastianraschka.com/blog/2023/llm-reading-list.html
+
+eugeneyan/open-llms: 📋 A list of open LLMs available for commercial use.
+https://github.com/eugeneyan/open-llms
+
+5 Best Web Scraping Tools to Extract Online Data - Hongkiat
+https://www.hongkiat.com/blog/web-scraping-tools/
+
+OLTP - Definition, Characteristics, System Design
+https://corporatefinanceinstitute.com/resources/data-science/oltp/
+
+Parsing in Python: all the tools and libraries you can use
+https://tomassetti.me/parsing-in-python/
+
+Timeouts and unreachables in traceroute | Lumen
+https://www.lumen.com/help/en-us/network/traceroute/timeouts-and-unreachables-in-traceroute.html
+
+Basic Syntax | Markdown Guide
+https://www.markdownguide.org/basic-syntax/
+
+
+Transaction Size | Bytes, Weight, and Virtual Bytes
+https://learnmeabitcoin.com/technical/transaction/size/#weight
+
+Web3 — Dive deeper / GillesDC.com
+https://www.gillesdc.com/web3/deeper
+
+TestersDock - Info Hub For Testers
+https://testersdock.com/
+
+zhenyabrik - Tusting giude(RU).
+https://zhenyabrik.gitbooks.io/matrixcopy/content/
+
+W3Schools SQL Quiz
+https://www.w3schools.com/quiztest/quiztest.asp?qtest=SQL
+
+Humanoid History -WABOT-
+https://www.humanoid.waseda.ac.jp/booklet/kato_2.html
+
+FBI document shows what data can be obtained from encrypted messaging apps
+https://therecord.media/fbi-document-shows-what-data-can-be-obtained-from-encrypted-messaging-apps
+
+Satellite Database | Union of Concerned Scientists
+https://www.ucsusa.org/resources/satellite-database
+
+Geospatial - A Complete Introduction | HEAVY.AI
+https://www.heavy.ai/learn/geospatial
+
+Localization testing with confidence - WonderProxy
+https://wonderproxy.com/
+
+Register of payment and electronic money institutions under PSD2 | European Banking Authority
+https://www.eba.europa.eu/risk-and-data-analysis/data/registers/payment-institutions-register
+
+GeoNames
+https://www.geonames.org/
+
+Tmux Cheat Sheet & Quick Reference | Session, window, pane and more
+https://tmuxcheatsheet.com/
+
+Overview of UI Tools for Monitoring and Management of Apache Kafka Clusters | by German Osin | Towards Data Science
+https://towardsdatascience.com/overview-of-ui-tools-for-monitoring-and-management-of-apache-kafka-clusters-8c383f897e80
+
+How to use SFTP Server using Rest API | by Adarsh Sharma | Medium
+https://medium.com/@adarshsharma.jaipur/how-to-use-sftp-server-using-rest-api-5305be67fd25
+
+Best typing tutor software of 2024 | TechRadar
+https://www.techradar.com/best/typing-tutor-software
+
+
+Hypertext Transfer Protocol (HTTP) Status Code Registry
+https://www.iana.org/assignments/http-status-codes/http-status-codes.xhtml
+
+Jenkov.com Tech & Media Labs - Resources for Developers, IT Architects and Technopreneurs
+https://jenkov.com/
+
+Android testing: An easy introduction with examples - Tricentis
+https://www.tricentis.com/learn/android-testing-an-easy-introduction-with-examples
+
+Mobile App Testing Cheatsheet
+https://www.linkedin.com/feed/update/urn:li:activity:6842566796147482624/
+
+Что такое DNS простыми словами | Рег.ру
+https://51.159.195.117/support/dns-servery-i-nastroyka-zony/obshchaya-informatsiya-o-dns-serverakh/chto-takoye-dns-prostymi-slovami?__cpo=aHR0cHM6Ly9oZWxwLnJlZy5ydQ
+
