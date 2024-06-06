@@ -192,6 +192,16 @@
                 "top_category_item_url": "https://senlainc.com/blog/top-10-software-development-models-in-a-nutshell/",
                 "top_category_item_details": []
             }
+            ,
+            {
+                "top_category_item_title": "Git Pull Force – How to Overwrite Local Changes With Git",
+                "top_category_item_url": "https://www.freecodecamp.org/news/git-pull-force-how-to-overwrite-local-changes-with-git/",
+                "top_category_item_details": [
+				{
+                    "Author": "Norman Benbrahim"
+                }
+                ]
+            }
         ]
     }
 ]
