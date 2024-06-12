@@ -34,7 +34,7 @@
         ]
     },
     {
-        "top_category": "Gmail's API & Python",
+        "top_category": "Python & Gmail's API",
         "top_category_item": [
             {
                 "top_category_item_title": "Using Gmail's API To Search & Display Emails Using Python",
@@ -59,11 +59,47 @@
                     {
                         "YouTube": "https://youtu.be/vgk7Yio-GQw",
                         "Video_posted_on_YouTube": " Apr 12, 2023",
-                        "Author": "ian samir.",
+                        "Author": "ian samir",
                         "YouTube_channel": "https://www.youtube.com/@iansamir18",
                         "GitHub_project": "iansamir/email-bot",
                         "Languages": "Python",
                         "Description": "Author explains usage of Gmail API and creating Python app that utilizes it."
+                    }
+                ]
+            }
+        ]
+    },
+      {
+        "top_category": "Python & Telegram",
+        "top_category_item": [
+           {
+                "top_category_item_title": "How to use Python to get Telegram channel messages and users list",
+                "top_category_item_url": " ",
+                "top_category_item_details": [
+                    {
+                        "YouTube": "https://youtu.be/aU1p-F7gDo4",
+                        "Video_posted_on_YouTube": "Apr 12, 2023",
+                        "Author": "Amir Yousefi",
+                        "YouTube_channel": "https://www.youtube.com/@AmirYousefi",
+                        "GitHub_project": "telegram-analysis",
+                        "Languages": "Python",
+                        "Description": "In this video, you will learn how to get private and public channels and groups messages and users list from Telegram using Python and Telethon package."
+                    }
+                ]
+            },
+            {
+                "top_category_item_title": "How to Get Data From Telegram Using Python",
+                "top_category_item_url": "https://betterprogramming.pub/how-to-get-data-from-telegram-82af55268a4b",
+                "top_category_item_details": [
+                    {
+                        "Item_published_at": "Aug 14, 2019",
+                        "YouTube": "",
+                        "Video_posted_on_YouTube": "",
+                        "Author": "Amir Yousefi",
+                        "YouTube_channel": "https://www.youtube.com/@AmirYousefi",
+                        "GitHub_project": "telegram-analysis",
+                        "Languages": "Python",
+                        "Description": "A Python tutorial on getting Telegram channel messages and members lists."
                     }
                 ]
             }
