@@ -1,7 +1,7 @@
 [
     {
         "top_category": "LinkedIn",
-        "top_category_item": [
+        "top_category_items": [
             {
                 "top_category_item_title": "How to identify and authorize the world | LinkedIn",
                 "top_category_item_url": "https://www.linkedin.com/pulse/how-identify-authorize-world-roman-denysenko/?trackingId=9XPiGaGb5dRbHqv7D54MpA%3D%3D",
@@ -51,7 +51,7 @@
     },
     {
         "top_category": "Medium",
-        "top_category_item": [
+        "top_category_items": [
             {
                 "top_category_item_title": "Internet Control Message Protocol (ICMP) — overview | by R_D2 | Apr, 2024 | Medium",
                 "top_category_item_url": " https://broken-code.medium.com/icmp-protocol-7d53b64c73ca",
@@ -81,7 +81,7 @@
     },
     {
         "top_category": "Other Resources",
-        "top_category_item": [
+        "top_category_items": [
             {
                 "top_category_item_title": "Open RAN explained | Nokia",
                 "top_category_item_url": "https://www.nokia.com/networks/radio-access-networks/open-ran/open-ran-explained/",
@@ -198,7 +198,7 @@
                 "top_category_item_url": "https://www.freecodecamp.org/news/git-pull-force-how-to-overwrite-local-changes-with-git/",
                 "top_category_item_details": [
 				{
-                    "Author": "Piotr Gaczkowski"
+                    "author": "Piotr Gaczkowski"
                 }
                 ]
             }

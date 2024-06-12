@@ -1,7 +1,7 @@
 [
     {
         "top_category": "Python",
-        "top_category_item": [
+        "top_category_items": [
             {
                 "top_category_item_title": "Working with PDFs: The best tools for extracting text, tables and images",
                 "top_category_item_url": "https://levelup.gitconnected.com/working-with-pdfs-the-best-tools-for-extracting-text-tables-and-images-2e07a540c5cc",
@@ -9,11 +9,11 @@
                     {
                         "YouTube": "",
                         "Video posted on YouTube": "",
-                        "Author": "",
+                        "author": "",
                         "YouTube channel": "",
                         "GitHub project": "",
-                        "Languages": "",
-                        "Description": ""
+                        "programming_languages": "",
+                        "description": ""
                     }
                 ]
             }
@@ -21,7 +21,7 @@
     },
     {
         "top_category": "Gmail's API & Python",
-        "top_category_item": [
+        "top_category_items": [
             {
                 "top_category_item_title": "Using Gmail's API To Search & Display Emails Using Python",
                 "top_category_item_url": "https://levelup.gitconnected.com/working-with-pdfs-the-best-tools-for-extracting-text-tables-and-images-2e07a540c5cc",
@@ -32,8 +32,8 @@
                         "Auhtor": "Norman Benbrahim",
                         "YouTube channel": "https://YouTube_channel_Link",
                         "GitHub project": "NormanBenbrahim/get_emails",
-                        "Languages": "Python",
-                        "Description": "Author explains usage of Gmail API and creating Python app that utilizes it. In additional , author exaplain how to get Gmail API token."
+                        "programming_languages": "Python",
+                        "description": "Author explains usage of Gmail API and creating Python app that utilizes it. In additional , author exaplain how to get Gmail API token."
                     }
                 ]
             },
@@ -47,8 +47,8 @@
                         "Auhtor": "ian samir.",
                         "YouTube channel": "https://www.youtube.com/@iansamir18",
                         "GitHub project": "iansamir/email-bot",
-                        "Languages": "Python",
-                        "Description": "Author explains usage of Gmail API and creating Python app that utilizes it."
+                        "programming_languages": "Python",
+                        "description": "Author explains usage of Gmail API and creating Python app that utilizes it."
                     }
                 ]
             }

@@ -43,10 +43,15 @@ const dataMap = {
       listContent += `<li><h3><a href="#${categoryId}">${category.top_category}</a></h3>`;
       listContent += `<ol>`;
   
-      category.top_category_item.forEach(item => {
+      category.top_category_items.forEach(item => {
+        // Generate unique ID for each item of category using index and category name
+        const index = category.top_category_items.indexOf(item); // Get current item's index
+        const topCategoryItemsId = `category_item_${category.top_category.replace(/\s+/g, '_')}-${index}`;
+      
         const title = item.top_category_item_title || ""; // Skip missing title
-        listContent += `<li><a href="${item.top_category_item_url}">${title}</a></li>`;
+        listContent += `<li><a href="#${topCategoryItemsId}">${title}</a></li>`;
       });
+      
   
       listContent += `</ol></li>`;
     });
@@ -61,21 +66,25 @@ const dataMap = {
       const categoryId = `category_${category.top_category.replace(/\s+/g, '_')}`;
       detailsContent += `<li><h3 id="${categoryId}">${category.top_category}</h3>`;
       detailsContent += `<ol>`;
-  
-      category.top_category_item.forEach(item => {
-        detailsContent += `<li><h4>${item.top_category_item_title || ""}</h4></li>`;
-        detailsContent += `<a href="${item.top_category_item_url}">${item.top_category_item_url}</a>`;
-  
+      
+      category.top_category_items.forEach(item => {
+        const index = category.top_category_items.indexOf(item); // Get current item's index
+        const topCategoryItemsId = `category_item_${category.top_category.replace(/\s+/g, '_')}-${index}`;
+
+        detailsContent += `<li><h4 id="${topCategoryItemsId}">${item.top_category_item_title || ""}</h4></li>`;
+        detailsContent += `<a href="${item.top_category_item_url}">${item.top_category_item_url.slice(0, 30)}${item.top_category_item_url.length > 30 ? "..." : ""}</a>`;
+
         const details = item.top_category_item_details[0] || {}; // Get first details or empty object
   
         detailsContent += `<ul>`;
-        detailsContent += getDetailElement("YouTube", details.YouTube, true);
-        detailsContent += getDetailElement("Video posted on YouTube", details.Video_posted_on_YouTube);
-        detailsContent += getDetailElement("Author", details.Author || details.Auhtor); // Handle typos and missing fields
-        detailsContent += getDetailElement("YouTube channel", details.YouTube_channel, true);
-        detailsContent += getDetailElement("GitHub project link", details.GitHub_project, true);
-        detailsContent += getDetailElement("Languages", details.Languages);
-        detailsContent += getDetailElement("Description", details.Description);
+        detailsContent += getDetailElement("Item published at", details.item_published_at);
+        detailsContent += getDetailElement("YouTube", details.youTube, true);
+        detailsContent += getDetailElement("Published (on YouTube)", details.video_posted_on_YouTube);
+        detailsContent += getDetailElement("Author", details.auhtor); // Handle typos and missing fields
+        detailsContent += getDetailElement("YouTube channel", details.youTube_channel, true);
+        detailsContent += getDetailElement("GitHub project link", details.gitHub_project, true);
+        detailsContent += getDetailElement("Programminng languages", details.programming_languages);
+        detailsContent += getDetailElement("Description", details.description);
         detailsContent += `</ul>`;
       });
   
