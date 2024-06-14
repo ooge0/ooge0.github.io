@@ -118,6 +118,22 @@
                 "top_category_item_url": "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Testing",
                 "top_category_item_details": [
                 ]
+            },
+            {
+                "top_category_item_title": "Django | Server Setup (WSGI, Gunicorn, Nginx)",
+                "top_category_item_url": "https://www.youtube.com/watch?v=YnrgBeIRtvo",
+                "top_category_item_details": [
+                    {
+                        "item_published_at": "Aug 14, 2019",
+                        "youTube": "",
+                        "video_posted_on_YouTube": "Oct 10, 2020",
+                        "author": "Django road",
+                        "youTube_channel": "https://www.youtube.com/watch?v=YnrgBeIRtvo",
+                        "gitHub_project": "N/A",
+                        "programming_languages": "Python",
+                        "description": "A tutorial on how a Django project runs in development and production environments. I also show how to run a Django project using a WSGI server (Gunicorn) and a web server (Nginx)."
+                    }
+                ]
             }
         ]
     }
