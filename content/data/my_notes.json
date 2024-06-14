@@ -129,9 +129,31 @@
                         "video_posted_on_YouTube": "Oct 10, 2020",
                         "author": "Django road",
                         "youTube_channel": "https://www.youtube.com/watch?v=YnrgBeIRtvo",
-                        "gitHub_project": "N/A",
+                        "gitHub_project": "",
                         "programming_languages": "Python",
                         "description": "A tutorial on how a Django project runs in development and production environments. I also show how to run a Django project using a WSGI server (Gunicorn) and a web server (Nginx)."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "non-printable_description":"this is 6th CATEGORY",
+        "top_category": "Blogs / Portals / Discusions ",
+        "top_category_items": [
+            {
+                "top_category_item_title": "Python Community",
+                "top_category_item_url": "https://discuss.python.org/",
+                "top_category_item_details": [
+                    {
+                        "item_published_at": "",
+                        "youTube": "",
+                        "video_posted_on_YouTube": "",
+                        "author": "",
+                        "youTube_channel": "",
+                        "gitHub_project": "",
+                        "programming_languages": "Python",
+                        "description": "Discussions related to the Python Programming Language, Python Community, and Python Software Foundation operations."
                     }
                 ]
             }
