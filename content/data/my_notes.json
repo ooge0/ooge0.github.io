@@ -139,6 +139,29 @@
     },
     {
         "non-printable_description":"this is 6th CATEGORY",
+        "top_category": "Dev hints",
+        "top_category_items": [
+            {
+                "top_category_item_title": "Quicktype.io",
+                "top_category_item_url": "https://quicktype.io/",
+                "top_category_item_details": [
+                    {
+                        "item_published_at": "",
+                        "youTube": "",
+                        "video_posted_on_YouTube": "",
+                        "author": "",
+                        "youTube_channel": "",
+                        "gitHub_project": "",
+                        "programming_languages": "C#, Swift, JavaScript, Flow, Python, TypeScript, Go, Rust, Objective-C, Kotlin, C++ and more.",
+                        "description": "Quicktype generates types and helper code for reading JSON in C#, Swift, JavaScript, Flow, Python, TypeScript, Go, Rust, Objective-C, Kotlin, C++ and more."
+                    }
+                ]
+            }
+        ]
+    }
+    ,
+    {
+        "non-printable_description":"this is 7th CATEGORY",
         "top_category": "Blogs / Portals / Discusions ",
         "top_category_items": [
             {
