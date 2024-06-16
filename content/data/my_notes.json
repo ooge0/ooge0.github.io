@@ -1,42 +1,38 @@
 [
     {
-        "non-printable_description":"this is 1st CATEGORY",
+        "non-printable_description": "this is 1st CATEGORY",
         "top_category": "Python",
         "top_category_items": [
             {
                 "top_category_item_title": "Working with PDFs: The best tools for extracting text, tables and images",
                 "top_category_item_url": "https://levelup.gitconnected.com/working-with-pdfs-the-best-tools-for-extracting-text-tables-and-images-2e07a540c5cc",
-                "top_category_item_details": [
-                ]
+                "top_category_item_details": []
             }
         ]
     },
     {
-        "non-printable_description":"this is 2nd CATEGORY",
+        "non-printable_description": "this is 2nd CATEGORY",
         "top_category": "OCR",
         "top_category_items": [
             {
                 "top_category_item_title": "ocr.space",
                 "top_category_item_url": "https://ocr.space/",
-                "top_category_item_details": [
-                ]
+                "top_category_item_details": []
             },
             {
                 "top_category_item_title": "onlineocr.net",
                 "top_category_item_url": "https://www.onlineocr.net/",
-                "top_category_item_details": [
-                ]
+                "top_category_item_details": []
             },
             {
                 "top_category_item_title": "Screenshot OCR online",
                 "top_category_item_url": "http://www.structurise.com/screenshot-ocr/",
-                "top_category_item_details": [
-                ]
+                "top_category_item_details": []
             }
         ]
     },
     {
-        "non-printable_description":"this is 3d CATEGORY",
+        "non-printable_description": "this is 3d CATEGORY",
         "top_category": "Python & Gmail's API",
         "top_category_items": [
             {
@@ -44,11 +40,10 @@
                 "top_category_item_url": "https://youtu.be/vgk7Yio-GQw?si=KWgLaQUnAz8x0DE2",
                 "top_category_item_details": [
                     {
-                        
                         "video_posted_on_YouTube": "Oct 13, 2019",
                         "author": "Norman Benbrahim",
                         "youTube_channel": "https://www.youtube.com/@normanbenbrahim3742",
-                        "gitHub_channel":"https://github.com/NormanBenbrahim",
+                        "gitHub_channel": "https://github.com/NormanBenbrahim",
                         "gitHub_project": "https://github.com/NormanBenbrahim/get_emails",
                         "programming_languages": "Python",
                         "description": "Author explains usage of Gmail API and creating Python app that utilizes it. In additional , author exaplain how to get Gmail API token."
@@ -72,11 +67,11 @@
             }
         ]
     },
-      {
-        "non-printable_description":"this is 4th CATEGORY",
+    {
+        "non-printable_description": "this is 4th CATEGORY",
         "top_category": "Python & Telegram",
         "top_category_items": [
-           {
+            {
                 "top_category_item_title": "How to use Python to get Telegram channel messages and users list",
                 "top_category_item_url": " ",
                 "top_category_item_details": [
@@ -110,14 +105,13 @@
         ]
     },
     {
-        "non-printable_description":"this is 5th CATEGORY",
+        "non-printable_description": "this is 5th CATEGORY",
         "top_category": "Django (Python framework)",
         "top_category_items": [
             {
                 "top_category_item_title": "Django Tutorial Part 10: Testing a Django web application",
                 "top_category_item_url": "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Testing",
-                "top_category_item_details": [
-                ]
+                "top_category_item_details": []
             },
             {
                 "top_category_item_title": "Django | Server Setup (WSGI, Gunicorn, Nginx)",
@@ -138,7 +132,7 @@
         ]
     },
     {
-        "non-printable_description":"this is 6th CATEGORY",
+        "non-printable_description": "this is 6th CATEGORY",
         "top_category": "Dev hints",
         "top_category_items": [
             {
@@ -156,16 +150,42 @@
                         "description": "Quicktype generates types and helper code for reading JSON in C#, Swift, JavaScript, Flow, Python, TypeScript, Go, Rust, Objective-C, Kotlin, C++ and more."
                     }
                 ]
+            },
+            {
+                "top_category_item_title": "Pomodoro / Pomofocus",
+                "top_category_item_url": "https://pomofocus.io/",
+                "top_category_item_details": [
+                    {
+                        "description": "A simple Pomodoro Timer app that works on a desktop & mobile browser. Pomofucus will help you manage your time and let you focus on any tasks such as study, writing, or coding."
+                    }
+                ]
+            },
+            {
+                "top_category_item_title": "Programiz.com",
+                "top_category_item_url": "https://www.programiz.com",
+                "top_category_item_details": [
+                    {
+                        "description": "Learn to code in Python, C/C++, Java, and other popular programming languages with our easy to follow tutorials, examples, online compiler and references."
+                    }
+                ]
+            },
+            {
+                "top_category_item_title": "Programiz.com - python-programming",
+                "top_category_item_url": "https://www.programiz.com/python-programming/methods/",
+                "top_category_item_details": [
+                    {
+                        "description": "Learn to code in Python with our easy to follow tutorials, examples, online compiler and references."
+                    }
+                ]
             }
         ]
-    }
-    ,
+    },
     {
-        "non-printable_description":"this is 7th CATEGORY",
+        "non-printable_description": "this is 7th CATEGORY",
         "top_category": "Blogs / Portals / Discusions ",
         "top_category_items": [
             {
-                "top_category_item_title": "Python Community",
+                "top_category_item_title": "discuss.python.org",
                 "top_category_item_url": "https://discuss.python.org/",
                 "top_category_item_details": [
                     {
@@ -177,6 +197,22 @@
                         "gitHub_project": "",
                         "programming_languages": "Python",
                         "description": "Discussions related to the Python Programming Language, Python Community, and Python Software Foundation operations."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "non-printable_description": "this is 9th CATEGORY",
+        "top_category": "DEV chalanges & games",
+        "top_category_items": [
+            {
+                "top_category_item_title": "mystery.knightlab",
+                "top_category_item_url": "https://mystery.knightlab.com/",
+                "top_category_item_details": [
+                    {
+                        "programming_languages": "SQL",
+                        "description": "Game. Use SQL queries to solve the murder mystery. Suitable for beginners or experienced SQL sleuths."
                     }
                 ]
             }
