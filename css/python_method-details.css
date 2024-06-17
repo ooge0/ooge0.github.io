@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+h2 {
+    font-weight: bold;
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+h3 {
+    font-style: italic;
+    margin-bottom: 5px;
+}
+.method-description,
+.method-note-description,
+.method-example-description,
+.method-example-note-description {
+    margin-bottom: 15px;
+}
+pre[class*="language-"] {
+    font-family: 'Fira Code';
+    /* background-color: #494a4d; */
+    padding: 10px;
+    border-radius: 3px;
+    margin-bottom: 15px;
+    white-space: pre-wrap; /* Ensure whitespace is preserved */
+}

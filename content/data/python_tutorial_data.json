@@ -1,0 +1,46 @@
+{
+  "method": [
+    {
+      "method_item": [
+        {
+          "method_name": "Python dict()"
+        },
+        {
+          "method_description": "Different forms of dict() constructors are:"
+        },
+        {
+          "method_code_snippet": "class dict(**kwarg)\nclass dict(mapping, **kwarg)\nclass dict(iterable, **kwarg)"
+        },
+        {
+          "method_code_output": "<class 'dict'>\nempty = {}\n<class 'dict'>"
+        },
+        {
+          "method_note_description": "Note: **kwarg let you take an arbitrary number of keyword arguments. A keyword argument is an argument preceded by an identifier (e.g., name=). Hence, the keyword argument of the form kwarg=value is passed to dict() constructor to create dictionaries. dict() doesn't return any value (returns None)."
+        },
+        {
+          "method_examples": [
+            {
+              "method_example": [
+                {
+                  "method_example_name": "Example 1: Create Dictionary Using keyword arguments only"
+                },
+                {
+                  "method_example_description": "Example description"
+                },
+                {
+                  "method_example_code_snippet": "numbers = dict(x=5, y=0)\nprint('numbers =', numbers)\nprint(type(numbers))\nempty = dict()\nprint('empty =', empty)\nprint(type(empty))"
+                },
+                {
+                  "method_example_code_snippet_output": "numbers = {'y': 0, 'x': 5}\n<class 'dict'>\nempty = {}\n<class 'dict'>"
+                },
+                {
+                  "method_example_note_description": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
