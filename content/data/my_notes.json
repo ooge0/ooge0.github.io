@@ -177,6 +177,15 @@
                         "description": "Learn to code in Python with our easy to follow tutorials, examples, online compiler and references."
                     }
                 ]
+            },
+            {
+                "top_category_item_title": "watchdog | api.minter.one",
+                "top_category_item_url": "https://api.minter.one/",
+                "top_category_item_details": [
+                    {
+                        "description": "Minter public node API. Maintained by Minter One validator team. But ....Minter.io API The Minter.io API allows you to extend the functionality of our social media analytics tool to manage and build powerful reporting for your unique business needs."
+                    }
+                ]
             }
         ]
     },
