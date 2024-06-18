@@ -80,7 +80,8 @@ function generateContentDetails(data) {
         detailsContent += getDetailElement("Item published at", details.item_published_at);
         detailsContent += getDetailElement("YouTube", details.youTube, true);
         detailsContent += getDetailElement("Published (on YouTube)", details.video_posted_on_YouTube);
-        detailsContent += getDetailElement("Author", details.auhtor); // Handle typos and missing fields
+        detailsContent += getDetailElement("Author", details.author); 
+        detailsContent += getDetailElement("Author site", details.author_site,true); 
         detailsContent += getDetailElement("YouTube channel", details.youTube_channel, true);
         detailsContent += getDetailElement("GitHub project link", details.gitHub_project, true);
         detailsContent += getDetailElement("Programminng languages", details.programming_languages);
