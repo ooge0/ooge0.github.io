@@ -7,6 +7,19 @@
                 "top_category_item_title": "Working with PDFs: The best tools for extracting text, tables and images",
                 "top_category_item_url": "https://levelup.gitconnected.com/working-with-pdfs-the-best-tools-for-extracting-text-tables-and-images-2e07a540c5cc",
                 "top_category_item_details": []
+            },
+            {
+                "top_category_item_title": "Python | String literals",
+                "top_category_item_url": "https://docs.python.org/3/library/string.html",
+                "top_category_item_details": []
+            },
+            {
+                "top_category_item_title": "Python | Formatted string literal or f-string",
+                "top_category_item_url": "https://docs.python.org/3/reference/lexical_analysis.html#f-strings",
+                "top_category_item_details": [
+                    {"description": "Added in version 3.6. A formatted string literal or f-string is a string literal that is prefixed with 'f' or 'F'. These strings may contain replacement fields, which are expressions delimited by curly braces {}. While other string literals always have a constant value, formatted strings are really expressions evaluated at run time."}
+                    
+                ]
             }
         ]
     },
