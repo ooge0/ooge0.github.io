@@ -78,8 +78,12 @@ function renderMethod(data) {
     methodContainer.appendChild(methodExampleCodeSnippetOutput);
     methodContainer.appendChild(methodExampleNoteDescription);
 
-    // Re-run Prism to highlight the code
-    Prism.highlightAll();
+
+  // Append all elements to the container
+  methodContainer.appendChild(methodExampleNoteDescription);
+
+  // After appending everything, trigger highlighting
+  Prism.highlightAll();
 }
 
 function escapeHTML(html) {
