@@ -9,9 +9,22 @@
                 "top_category_item_details": []
             },
             {
+                "top_category_item_title": "SQL (Relational) Databases - FAstAPI",
+                "top_category_item_url": "https://fastapi.tiangolo.com/tutorial/sql-databases/?h=sql+python#__tabbed_1_1",
+                "top_category_item_details": [
+                    {
+                        "description": "Tutorial - User Guide. In this example, we'll use SQLite, because it uses a single file and Python has integrated support. So, you can copy this example and run it as is."
+                    }
+                ]
+            },
+            {
                 "top_category_item_title": "Python | String literals",
                 "top_category_item_url": "https://docs.python.org/3/library/string.html",
-                "top_category_item_details": []
+                "top_category_item_details": [
+                    {
+                        "description": "....In this example, we'll use SQLite, because it uses a single file and Python has integrated support. So, you can copy this example and run it as is."
+                    }
+                ]
             },
             {
                 "top_category_item_title": "Python | Formatted string literal or f-string",
@@ -180,6 +193,15 @@
                         "gitHub_project": "",
                         "programming_languages": "C#, Swift, JavaScript, Flow, Python, TypeScript, Go, Rust, Objective-C, Kotlin, C++ and more.",
                         "description": "Quicktype generates types and helper code for reading JSON in C#, Swift, JavaScript, Flow, Python, TypeScript, Go, Rust, Objective-C, Kotlin, C++ and more."
+                    }
+                ]
+            },
+            {
+                "top_category_item_title": "httpbin.org",
+                "top_category_item_url": "https://httpbin.org/",
+                "top_category_item_details": [
+                    {
+                        "description": "Examples of http requests."
                     }
                 ]
             },
