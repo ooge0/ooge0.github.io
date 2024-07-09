@@ -284,5 +284,52 @@
                 ]
             }
         ]
+    },
+    {
+        "non-printable_description": "this is 10th CATEGORY",
+        "top_category": "ML/Neural network viewers",
+        "top_category_items": [
+            {
+                "top_category_item_title": "Netron",
+                "top_category_item_url": "https://netron.app/",
+                "top_category_item_details": [
+                    {
+                        "programming_languages": "",
+                        "gitHub_project":"https://github.com/lutzroeder/netron",
+                        "description": "Netron is a viewer for neural network, deep learning and machine learning models."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "non-printable_description": "this is 11th CATEGORY",
+        "top_category": "DICOM",
+        "top_category_items": [ 
+            {
+                "top_category_item_title": "RadiAnt - DICOM viewer",
+                "top_category_item_url": "https://www.radiantviewer.com/",
+                "top_category_item_details": [
+                    {
+                        "programming_languages": "",
+                        "gitHub_project":"https://github.com/lutzroeder/netron",
+                        "description": " RadiAnt is a PACS DICOM viewer for medical images designed to provide you with a unique experience. With its intuitive interface and unrivaled performance,you'll never look back. Donwload link: https://www.radiantviewer.com/download/?src=mbst&f=setup"
+                    }
+                ]
+            },
+            {
+                "top_category_item_title": "3D slicer - DICOM editors",
+                "top_category_item_url": "https://www.slicer.org/",
+                "top_category_item_details": [
+                    {
+                        "programming_languages": "",
+                        "gitHub_project":"https://github.com/lutzroeder/netron",
+                        "description": "3D Slicer is a free, open source software for visualization, processing, segmentation, registration, and analysis of medical, biomedical, and other 3D images and meshes; and planning and navigating image-guided procedures. Donwload link: download.slicer.org/"
+                    }
+                        
+                        
+                ]
+            }
+        ]
     }
 ]
