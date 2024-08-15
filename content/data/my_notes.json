@@ -353,5 +353,18 @@
                 ]
             }
         ]
+    },
+    {
+        "non-printable_description": "this is 12th CATEGORY",
+        "top_category": "AI- news",
+        "top_category_items": [ 
+            {
+                "top_category_item_title": "All Too Predictably, Reality Is Puncturing The AI Hype Bubble ",
+                "top_category_item_url": "https://thefederalist.com/2024/08/13/all-too-predictably-reality-is-puncturing-the-ai-hype-bubble/",
+                "top_category_item_details": [
+                    
+                ]
+            }
+        ]
     }
 ]
